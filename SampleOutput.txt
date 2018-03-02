@@ -1,0 +1,22 @@
+Protocol:		TCP
+Data Rate:		54.0
+Network Standard:	802.11a
+
+Bits:			12342
+Symbols:		57
+Symbol Duration:	4.0
+Data Frame Time:	228.0
+
+Preamble		20.0
+SIFS:			16
+DIFS:			34
+
+---------------
+
+Time Taken:		360.0
+
+---------------
+
+Throughput:		32.71Mbps
+
+Time to send 10GB:	2446 Seconds
